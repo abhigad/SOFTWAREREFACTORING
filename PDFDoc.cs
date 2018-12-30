@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SOFTWAREREFACTORING
+﻿namespace SOFTWAREREFACTORING
 {
     public class PDFDoc : Document
     {
         public bool Preview()
         {
-            return PreviewDocument();
+            return PreviewDocument();   
         }
 
         public bool Print()
