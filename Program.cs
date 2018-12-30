@@ -6,9 +6,10 @@ namespace SOFTWAREREFACTORING
     {
         static void Main(string[] args)
         {
-            PDFDoc pdf = new PDFDoc();
-            pdf.Print();
-            pdf.Preview();
+            Document pdf = new PDFDoc();
+
+            pdf.PrintDocument();
+            pdf.PreviewDocument();
 
             Console.ReadLine(); 
         }

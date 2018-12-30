@@ -6,14 +6,14 @@ namespace SOFTWAREREFACTORING
 {
     public class PDFDoc : Document
     {
-        public void Print()
+        public bool Preview()
         {
-            print();
+            return PreviewDocument();
         }
 
-        public void Preview()
+        public bool Print()
         {
-            preview();
+            return PrintDocument();
         }
     }
 }

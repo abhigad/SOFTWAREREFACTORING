@@ -4,16 +4,17 @@ using System.Text;
 
 namespace SOFTWAREREFACTORING
 {
-    public class Document
+    public class Document  
     {
-        public bool print()
+        public bool PrintDocument()
         {
-            return new Printer().print(this);
+            return new Printer().PrintDocument(this);
         }
 
-        public bool preview()
+        public bool PreviewDocument()
         {
-            return new Previewer().preview(this);
+            return new Previewer().PreviewDocument(this);
         }
+
     }
 }
