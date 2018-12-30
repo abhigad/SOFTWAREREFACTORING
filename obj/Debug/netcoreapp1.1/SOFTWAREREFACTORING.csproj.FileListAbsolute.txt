@@ -1,0 +1,9 @@
+c:\users\gitaabhi\documents\visual studio 2017\Projects\SOFTWAREREFACTORING\SOFTWAREREFACTORING\bin\Debug\netcoreapp1.1\SOFTWAREREFACTORING.deps.json
+c:\users\gitaabhi\documents\visual studio 2017\Projects\SOFTWAREREFACTORING\SOFTWAREREFACTORING\bin\Debug\netcoreapp1.1\SOFTWAREREFACTORING.runtimeconfig.json
+c:\users\gitaabhi\documents\visual studio 2017\Projects\SOFTWAREREFACTORING\SOFTWAREREFACTORING\bin\Debug\netcoreapp1.1\SOFTWAREREFACTORING.runtimeconfig.dev.json
+c:\users\gitaabhi\documents\visual studio 2017\Projects\SOFTWAREREFACTORING\SOFTWAREREFACTORING\bin\Debug\netcoreapp1.1\SOFTWAREREFACTORING.dll
+c:\users\gitaabhi\documents\visual studio 2017\Projects\SOFTWAREREFACTORING\SOFTWAREREFACTORING\bin\Debug\netcoreapp1.1\SOFTWAREREFACTORING.pdb
+c:\users\gitaabhi\documents\visual studio 2017\Projects\SOFTWAREREFACTORING\SOFTWAREREFACTORING\obj\Debug\netcoreapp1.1\SOFTWAREREFACTORING.csprojResolveAssemblyReference.cache
+c:\users\gitaabhi\documents\visual studio 2017\Projects\SOFTWAREREFACTORING\SOFTWAREREFACTORING\obj\Debug\netcoreapp1.1\SOFTWAREREFACTORING.AssemblyInfo.cs
+c:\users\gitaabhi\documents\visual studio 2017\Projects\SOFTWAREREFACTORING\SOFTWAREREFACTORING\obj\Debug\netcoreapp1.1\SOFTWAREREFACTORING.dll
+c:\users\gitaabhi\documents\visual studio 2017\Projects\SOFTWAREREFACTORING\SOFTWAREREFACTORING\obj\Debug\netcoreapp1.1\SOFTWAREREFACTORING.pdb
