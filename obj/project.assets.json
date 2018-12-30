@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\gitaabhi\\documents\\visual studio 2017\\Projects\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING.csproj",
+      "projectUniqueName": "C:\\Users\\GitaAbhi\\Documents\\Visual Studio 2017\\Projects\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING.csproj",
       "projectName": "SOFTWAREREFACTORING",
-      "projectPath": "c:\\users\\gitaabhi\\documents\\visual studio 2017\\Projects\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING.csproj",
-      "outputPath": "c:\\users\\gitaabhi\\documents\\visual studio 2017\\Projects\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING\\obj\\",
+      "projectPath": "C:\\Users\\GitaAbhi\\Documents\\Visual Studio 2017\\Projects\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING.csproj",
+      "outputPath": "C:\\Users\\GitaAbhi\\Documents\\Visual Studio 2017\\Projects\\SOFTWAREREFACTORING\\SOFTWAREREFACTORING\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

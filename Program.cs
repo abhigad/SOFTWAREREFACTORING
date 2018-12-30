@@ -6,7 +6,7 @@ namespace SOFTWAREREFACTORING
     {
         static void Main(string[] args)
         {
-            Document pdf = new PDFDoc();
+            Document pdf = new PDFDoc(); 
 
             pdf.PrintDocument();
             pdf.PreviewDocument();
